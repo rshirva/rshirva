@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/SinhaAkanksh" target="blank"><img src="https://img.shields.io/twitter/follow/SinhaAkanksh?logo=twitter&style=for-the-badge" alt="SinhaAkanksh" /></a> </p>
 
 
-- 📫 How to reach me **akanksh.work@gmail.com**
+- 📫 How to reach me [Email]<a href="mailto:someone@example.com">Send email</a>
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/akanksh-sinhaa-28a37b217)
 
