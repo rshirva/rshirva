@@ -1,21 +1,14 @@
-<h1 align="center">Hi 👋, I'm Akanksh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hey there! I'm Akanksh</h1>
+<h3 align="center">Open source and app development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshsinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="akankshsinhaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshsinhaa" alt="akankshsinhaa" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akanksh_sinhaa" target="blank"><img src="https://img.shields.io/twitter/follow/akanksh_sinhaa?logo=twitter&style=for-the-badge" alt="akanksh_sinhaa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SinhaAkanksh" target="blank"><img src="https://img.shields.io/twitter/follow/SinhaAkanksh?logo=twitter&style=for-the-badge" alt="SinhaAkanksh" /></a> </p>
 
-- 🔭 I’m currently working on **Building my own website**
 
-- 🌱 I’m currently learning **Django, Node JS, GCP,Java**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/akankshsinhaa](https://github.com/akankshsinhaa)
-
-- 📫 How to reach me **akankshsinhaa143@gmail.com**
+- 📫 How to reach me **akanksh.work@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akanksh-sinhaa-28a37b217](https://www.linkedin.com/in/akanksh-sinhaa-28a37b217)
 
