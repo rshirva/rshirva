@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! I'm Akanksh</h1>
-<h3 align="center">Open source and app development enthusiast</h3>
+<h1 align="center">Hey there! I'm Akanksh :v:</h1>
+<h3 align="center">:sparkles:Open Source and App Development Fanatic:sparkles:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshsinhaa&label=Profile%20views&color=0e75b6&style=flat" alt="akankshsinhaa" /> </p>
 
