@@ -13,13 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SinhaAkanksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SinhaAkanksh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/akanksh-sinha-538192220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akanksh Sinha" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/rushil-shirva-8ba681251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akanksh Sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/akankshsinhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Akanksh Sinha" height="30" width="40" /></a>
 </p>
 <h3 align="left">Stats:</h3>
 <centre>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshsinhaa&show_icons=true&locale=en&layout=compact" alt="akankshsinhaa" /></p><br  /><br  /><br  /><br  /><br  /><br  /><br  /><br  />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshsinhaa&show_icons=true&locale=en" alt="akankshsinhaa" /></p><br  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankshsinhaa&" alt="akankshsinhaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rshirva&show_icons=true&locale=en&layout=compact" alt="rshirva" /></p><br  /><br  /><br  /><br  /><br  /><br  /><br  /><br  />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rshirva&show_icons=true&locale=en" alt="rshirva" /></p><br  />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rshirva&" alt="rshirva" /></p>
 </centre>
